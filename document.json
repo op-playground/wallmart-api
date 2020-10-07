@@ -36,7 +36,7 @@
     }
   ],
   "meta": {
-    "Install time": "3 minutes",
+    "Install time": ["3 minutes"],
     "Language": [
       "Yaml"
     ],
